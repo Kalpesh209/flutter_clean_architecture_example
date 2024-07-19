@@ -1,8 +1,5 @@
 # Flutter - Clean Architecture
 
-A new Flutter project.
-
-
 ## About Me
 5+ years experience as a programmer
 Focus on Android and Flutter, but also worked with iOS, 
