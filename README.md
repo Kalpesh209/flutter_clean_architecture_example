@@ -1,4 +1,4 @@
-# Flutter - Clean Architecture
+# Clean Architecture In Flutter App
 
 ## About Me
 5+ years experience as a programmer
