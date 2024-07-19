@@ -1,4 +1,4 @@
-# flutter_clean_architecture_example
+# Flutter - Clean Architecture with State Management comparison
 
 A new Flutter project.
 
